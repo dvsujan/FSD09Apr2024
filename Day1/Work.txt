@@ -35,5 +35,4 @@ Same file
   Push
 
 Edited in browser
-this is new text from local repo
 
